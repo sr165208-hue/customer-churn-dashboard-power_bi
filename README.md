@@ -9,7 +9,7 @@ An interactive Power BI dashboard analyzing customer churn patterns across 5,630
 Telecom companies lose significant revenue to customer churn. This project analyzes customer behavior, contract types, and service usage patterns to identify which customer segments are at the highest risk of churning, enabling the business to prioritize retention efforts where they will have the most impact.
 
 ## Dataset
-Source: Telco Customer Churn Dataset (Kaggle) - https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+Telco Customer Churn Raw Dataset : (./Raw_Data.csv)
 Contains 7,000+ customer records including demographics, account information, services subscribed, and churn status.
 
 ## Tools and Techniques
