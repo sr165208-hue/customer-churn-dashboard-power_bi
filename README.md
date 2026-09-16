@@ -1,5 +1,5 @@
 # customer-churn-dashboard-power_bi
-"Customer churn analysis dashboard built in Power BI with DAX-based risk segmentation"
+Built an interactive Power BI dashboard to identify and segment at-risk customers using DAX-based risk scoring logic. Designed calculated measures to classify customers into churn risk tiers (High/Medium/Low) based on usage patterns, tenure, and engagement metrics, enabling proactive retention targeting. Included dynamic visuals (churn rate by segment, revenue-at-risk, key churn drivers) with slicers for drill-down analysis across customer demographics.
 # Customer Churn Analysis Dashboard
 
 ## Overview
